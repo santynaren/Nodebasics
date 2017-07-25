@@ -1,0 +1,25 @@
+{
+  "name": "nodebasics",
+  "version": "1.0.0",
+  "description": "Basics of all the Nodes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santynaren/Nodebasics.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Narendra Smazee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santynaren/Nodebasics/issues"
+  },
+  "homepage": "https://github.com/santynaren/Nodebasics#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
